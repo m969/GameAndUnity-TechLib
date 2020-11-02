@@ -13,3 +13,10 @@
 
 ## 战斗、技能系统
 - https://github.com/sjai013/UnityGameplayAbilitySystem
+
+## 物理碰撞
+- https://github.com/AndresTraks/BulletSharp
+- https://github.com/Zonciu/Box2DSharp
+- https://github.com/JiepengTan/LockstepCollision
+- https://github.com/aaa719717747/TrueSyncExample
+- https://github.com/dotnet-ad/Humper
