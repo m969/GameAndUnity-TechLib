@@ -20,3 +20,6 @@
 - https://github.com/JiepengTan/LockstepCollision
 - https://github.com/aaa719717747/TrueSyncExample
 - https://github.com/dotnet-ad/Humper
+
+## 动态骨骼 
+- https://github.com/OneYoungMean/Automatic-DynamicBone
