@@ -24,8 +24,8 @@
 ## 动态骨骼 
 - https://github.com/OneYoungMean/Automatic-DynamicBone
 
-## Unity小工具（动画压缩、矩阵调试等）
-- https://github.com/lujian101/UnityToolDist
+## Unity小工具
+- https://github.com/lujian101/UnityToolDist （动画压缩、矩阵调试等）
 
 ## 体积雾
 - https://github.com/ArthurBrussee/Vapor
