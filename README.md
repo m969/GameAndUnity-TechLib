@@ -29,3 +29,8 @@
 
 ## 体积雾
 - https://github.com/ArthurBrussee/Vapor
+
+## 图节点式编辑器（Graph Editor）
+- https://github.com/alelievr/NodeGraphProcessor
+- https://github.com/Siccity/xNode
+- https://github.com/nicloay/Node-Inspector
