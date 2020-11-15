@@ -35,3 +35,6 @@
 - https://github.com/alelievr/NodeGraphProcessor
 - https://github.com/Siccity/xNode
 - https://github.com/nicloay/Node-Inspector
+
+## 笔刷绘图
+- https://github.com/EsProgram/InkPainter
