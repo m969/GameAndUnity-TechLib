@@ -38,3 +38,6 @@
 
 ## 笔刷绘图
 - https://github.com/EsProgram/InkPainter
+
+## ScrollRect
+- https://github.com/qiankanglai/LoopScrollRect
