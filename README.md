@@ -14,6 +14,7 @@
 ## 战斗、技能系统
 - https://github.com/sjai013/UnityGameplayAbilitySystem
 - https://github.com/tranek/GASDocumentation （虚幻引擎的GamePlay Ability System 文档）
+- https://github.com/emreCanbazoglu/SkillSystem
 
 ## 物理碰撞
 - https://github.com/AndresTraks/BulletSharp
