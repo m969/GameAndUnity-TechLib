@@ -42,3 +42,6 @@
 
 ## ScrollRect
 - https://github.com/qiankanglai/LoopScrollRect
+
+## 资源检查
+- https://github.com/ZxIce/AssetCheck
