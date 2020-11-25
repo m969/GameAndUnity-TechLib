@@ -54,3 +54,6 @@
 
 ## 黑客工具、网络异常模拟
 - https://github.com/Z4nzu/hackingtool
+
+## 敏感词库
+- https://github.com/toolgood/ToolGood.Words
