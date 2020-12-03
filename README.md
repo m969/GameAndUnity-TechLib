@@ -37,6 +37,9 @@
 - https://github.com/Siccity/xNode
 - https://github.com/nicloay/Node-Inspector
 
+## 行为树
+- https://github.com/meniku/NPBehave
+
 ## 笔刷绘图
 - https://github.com/EsProgram/InkPainter
 
