@@ -28,6 +28,7 @@
 
 ## Unity小工具
 - https://github.com/lujian101/UnityToolDist （动画压缩、矩阵调试等）
+- https://github.com/Unity-Technologies/VFXToolbox
 
 ## 体积雾
 - https://github.com/ArthurBrussee/Vapor
