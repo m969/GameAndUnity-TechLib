@@ -61,3 +61,6 @@
 
 ## 敏感词库
 - https://github.com/toolgood/ToolGood.Words
+
+## 算法
+- https://github.com/labuladong/fucking-algorithm
