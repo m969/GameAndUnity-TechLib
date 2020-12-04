@@ -5,9 +5,10 @@
 - [Animancer Pro](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514) （基于Playable的简单方便的动画解决方案）
 - [ProBuilder|UModeler](https://assetstore.unity.com/packages/tools/modeling/umodeler-80868) （快速关卡原型构建解决方案）
 - [ET](https://github.com/egametang/ET) （基于C#双端共享代码的分布式网络游戏开发框架）
-- [XAsset](https://github.com/xasset/xasset)
-- [FGUI](https://github.com/fairygui/FairyGUI-unity)
-- [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.5/manual/index.html)
+- [XAsset](https://github.com/xasset/xasset) （简单强大的资源管理插件）
+- [FGUI](https://github.com/fairygui/FairyGUI-unity) （简单强大的UI解决方案）
+- [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.5/manual/index.html) （Unity官方可编程渲染管线-通用渲染管线）
+- [Bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802) （可视化脚本）
 
 ## 别的引用库
 - https://github.com/killop/anything_about_game
