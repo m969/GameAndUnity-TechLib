@@ -1,5 +1,13 @@
 # GameAndUnity-TechLib 游戏和Unity的技术项目引用目录
 
+# Unity高效率项目开发技术栈尝试
+- [Odin Inspector](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) （编辑器扩展、工作流改善）
+- [Animancer Pro](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514) （基于Playable的简单方便的动画解决方案）
+- [ProBuilder]
+- [ET]
+- [XAsset]
+- [FGUI]
+
 ## 别的引用库
 - https://github.com/killop/anything_about_game
 - https://github.com/Gforcex/OpenGraphic
