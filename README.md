@@ -1,12 +1,13 @@
 # GameAndUnity-TechLib 游戏和Unity的技术项目引用目录
 
-# Unity高效率项目开发技术栈尝试
+# Unity高效游戏开发技术栈尝试
 - [Odin Inspector](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) （编辑器扩展、工作流改善）
 - [Animancer Pro](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514) （基于Playable的简单方便的动画解决方案）
-- [ProBuilder]
-- [ET]
-- [XAsset]
-- [FGUI]
+- [ProBuilder|UModeler](https://assetstore.unity.com/packages/tools/modeling/umodeler-80868) （快速关卡原型构建解决方案）
+- [ET](https://github.com/egametang/ET) （基于C#双端共享代码的分布式网络游戏开发框架）
+- [XAsset](https://github.com/xasset/xasset)
+- [FGUI](https://github.com/fairygui/FairyGUI-unity)
+- [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.5/manual/index.html)
 
 ## 别的引用库
 - https://github.com/killop/anything_about_game
