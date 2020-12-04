@@ -64,3 +64,5 @@
 
 ## 算法
 - https://github.com/labuladong/fucking-algorithm
+- https://github.com/azl397985856/leetcode
+- https://github.com/halfrost/LeetCode-Go
