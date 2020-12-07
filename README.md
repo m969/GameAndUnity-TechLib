@@ -11,6 +11,7 @@
 - [ShaderGraph/AmplifyShaderEditor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570) （风格化Shader编辑器）
 - [Bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802) （可视化脚本）
 - [ILRuntime](https://github.com/Ourpalm/ILRuntime)/[CSharp.lua](https://github.com/yanghuan/CSharp.lua) （热更新）
+- [EVCS](https://github.com/sebas77/Svelto.ECS) （Entity(Model)-ViewEntity-Component-System）
 
 ## 别的引用库
 - https://github.com/killop/anything_about_game
@@ -78,3 +79,10 @@
 - https://github.com/labuladong/fucking-algorithm
 - https://github.com/azl397985856/leetcode
 - https://github.com/halfrost/LeetCode-Go
+
+## ECS
+- https://github.com/sebas77/Svelto.ECS
+
+## IoC
+- https://github.com/strangeioc/strangeioc
+- https://github.com/modesttree/Zenject
