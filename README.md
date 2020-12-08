@@ -8,7 +8,7 @@
 - [XAsset](https://github.com/xasset/xasset) （简单强大的资源管理插件）
 - [FGUI](https://github.com/fairygui/FairyGUI-unity) （简单强大的UI解决方案）
 - [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.5/manual/index.html) （Unity官方可编程渲染管线-通用渲染管线）
-- [ShaderGraph/AmplifyShaderEditor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570) （风格化Shader编辑器）
+- [ShaderGraph/AmplifyShaderEditor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570) （自定义Shader编辑器）
 - [Bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802) （可视化脚本）
 - [ILRuntime](https://github.com/Ourpalm/ILRuntime)/[CSharp.lua](https://github.com/yanghuan/CSharp.lua) （热更新）
 
