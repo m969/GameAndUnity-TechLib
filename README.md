@@ -16,6 +16,9 @@
 - https://github.com/killop/anything_about_game
 - https://github.com/Gforcex/OpenGraphic
 
+## 水渲染
+- https://github.com/flamacore/UnityHDRPSimpleWater
+
 ## 卡通渲染
 - https://github.com/you-ri/LiliumToonGraph
 - https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project
