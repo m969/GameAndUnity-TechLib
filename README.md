@@ -26,6 +26,9 @@
 - https://github.com/Kink3d/kShading
 - https://github.com/ChiliMilk/URP_Toon
 
+## UI
+- 2.6k+☆ https://github.com/mob-sakai/UIEffect
+
 ## 战斗、技能系统
 - https://github.com/sjai013/UnityGameplayAbilitySystem
 - https://github.com/tranek/GASDocumentation （虚幻引擎的GamePlay Ability System 文档）
