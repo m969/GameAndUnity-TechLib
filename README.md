@@ -26,6 +26,12 @@
 - https://github.com/Kink3d/kShading
 - https://github.com/ChiliMilk/URP_Toon
 
+## 草渲染
+- 300+☆ https://github.com/ColinLeung-NiloCat/UnityURP-MobileDrawMeshInstancedIndirectExample
+
+## Decals
+- 300+☆ https://github.com/Kink3d/kDecals
+
 ## UI
 - 2.6k+☆ https://github.com/mob-sakai/UIEffect
 
