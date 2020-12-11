@@ -17,7 +17,14 @@
 - https://github.com/Gforcex/OpenGraphic
 
 ## 框架
+- 1k+☆ https://github.com/yimengfan/BDFramework.Core
+- 1k+☆ https://github.com/liangxiegame/QFramework
+- 700+☆ https://github.com/vovgou/loxodon-framework
+- 300+☆ https://github.com/yomunsam/TinaX
 - 100+☆ https://github.com/gmhevinci/MotionFramework
+
+## 序列化
+- 15k+☆ https://github.com/google/flatbuffers (据说序列化快，占内存大，相比于pb，适合游戏开发)
 
 ## 水渲染
 - https://github.com/flamacore/UnityHDRPSimpleWater
