@@ -28,8 +28,12 @@
 ## 服务端框架
 - 2k+☆ https://github.com/ketoo/NoahGameFrame
 
+## 网络库
+- 1k+☆ https://github.com/RevenantX/LiteNetLib
+
 ## 序列化
 - 15k+☆ https://github.com/google/flatbuffers (据说序列化快，占内存大，相比于pb，适合游戏开发)
+- 100+☆ https://github.com/jamescourtney/FlatSharp
 
 ## 水渲染
 - https://github.com/flamacore/UnityHDRPSimpleWater
