@@ -40,6 +40,7 @@
 
 ## 镜面反射
 - 100+☆ https://github.com/Kink3d/kMirrors （URP）
+- 100+☆ https://github.com/ColinLeung-NiloCat/UnityURP-MobileScreenSpacePlanarReflection
 
 ## 卡通渲染
 - 1k+☆ https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
