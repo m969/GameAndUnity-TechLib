@@ -94,7 +94,8 @@
 - https://github.com/nicloay/Node-Inspector
 
 ## 行为树
-- https://github.com/meniku/NPBehave
+- 400+☆ https://github.com/meniku/NPBehave
+- 200+☆ https://github.com/ashblue/fluid-behavior-tree
 
 ## 笔刷绘图
 - https://github.com/EsProgram/InkPainter
