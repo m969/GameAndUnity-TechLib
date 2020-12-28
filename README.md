@@ -17,6 +17,7 @@
 - https://github.com/Gforcex/OpenGraphic
 
 ## 客户端框架
+- 2k+☆ https://github.com/EllanJiang/GameFramework
 - 1k+☆ https://github.com/yimengfan/BDFramework.Core
 - 1k+☆ https://github.com/liangxiegame/QFramework
 - 700+☆ https://github.com/vovgou/loxodon-framework
