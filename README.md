@@ -133,3 +133,6 @@
 ## IoC
 - https://github.com/strangeioc/strangeioc
 - https://github.com/modesttree/Zenject
+
+## 原生平台交互
+- 400+☆ https://github.com/yasirkula/UnityNativeShare
