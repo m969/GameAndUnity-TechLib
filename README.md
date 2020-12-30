@@ -50,10 +50,11 @@
 - 300+☆ https://github.com/SnutiHQ/Toon-Shader
 - 300+☆ https://github.com/IronWarrior/UnityToonShader
 - 300+☆ https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline
+- 300+☆ https://github.com/ronja-tutorials/ShaderTutorials
 - 200+☆ https://github.com/you-ri/LiliumToonGraph
+- 80+☆ https://github.com/madumpa/URP_StylizedLitShader
 - 80+☆ https://github.com/Sorumi/UnityToonShader
 - 50+☆ https://github.com/ChiliMilk/URP_Toon
-- 300+☆ https://github.com/ronja-tutorials/ShaderTutorials
 
 ## 草渲染
 - 300+☆ https://github.com/ColinLeung-NiloCat/UnityURP-MobileDrawMeshInstancedIndirectExample
