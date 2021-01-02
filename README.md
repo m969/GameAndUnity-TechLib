@@ -81,6 +81,7 @@
 - 900+☆ https://github.com/davideicardi/DynamicExpresso
 - 200+☆ https://github.com/zzzprojects/Eval-Expression.NET
 - 200+☆ https://github.com/mparlak/Flee
+- 100+☆ https://github.com/codingseb/ExpressionEvaluator
 - http://wiki.unity3d.com/index.php/ExpressionParser
 
 ## 物理碰撞
