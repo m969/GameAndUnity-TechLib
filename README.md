@@ -77,6 +77,11 @@
 - 40+☆ https://github.com/dx50075/SkillSystem
 - 70+☆ https://github.com/michaelday008/AnyRPGAlphaCode
 
+## 动态表达式解析库
+- 200+☆ https://github.com/zzzprojects/Eval-Expression.NET
+- 200+☆ https://github.com/mparlak/Flee
+- http://wiki.unity3d.com/index.php/ExpressionParser
+
 ## 物理碰撞
 - https://github.com/AndresTraks/BulletSharp
 - https://github.com/Zonciu/Box2DSharp
