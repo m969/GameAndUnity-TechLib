@@ -78,6 +78,7 @@
 - 70+☆ https://github.com/michaelday008/AnyRPGAlphaCode
 
 ## 动态表达式解析库
+- 900+☆ https://github.com/davideicardi/DynamicExpresso
 - 200+☆ https://github.com/zzzprojects/Eval-Expression.NET
 - 200+☆ https://github.com/mparlak/Flee
 - http://wiki.unity3d.com/index.php/ExpressionParser
