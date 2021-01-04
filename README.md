@@ -73,9 +73,11 @@
 - https://github.com/sjai013/UnityGameplayAbilitySystem
 - https://github.com/tranek/GASDocumentation （虚幻引擎的GamePlay Ability System 文档）
 - 130+☆ https://github.com/dongweiPeng/SkillSystem
-- https://github.com/emreCanbazoglu/SkillSystem
+- 100+☆ https://github.com/delmarle/RPG-Core
+- https://github.com/KrazyL/SkillSystem-3
 - 40+☆ https://github.com/dx50075/SkillSystem
 - 70+☆ https://github.com/michaelday008/AnyRPGAlphaCode
+- 10+☆ https://github.com/weichx/AbilitySystem
 
 ## 动态表达式解析库
 - 900+☆ https://github.com/davideicardi/DynamicExpresso
