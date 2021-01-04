@@ -28,6 +28,7 @@
 - 100+☆ https://github.com/SaiTingHu/HTFramework
 
 ## 服务端框架
+- 4k+☆ https://github.com/heroiclabs/nakama
 - 2k+☆ https://github.com/ketoo/NoahGameFrame
 
 ## 网络库
