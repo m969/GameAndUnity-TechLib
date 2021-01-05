@@ -2,7 +2,7 @@
 
 # Unity高效游戏开发技术栈尝试
 - [Odin Inspector](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) （编辑器扩展、工作流改善）
-- [Animancer Pro](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514) （基于Playable的简单方便的动画解决方案）
+- [Animancer Pro](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514) （基于Playable的简单强大的动画解决方案）
 - [ProBuilder/UModeler](https://assetstore.unity.com/packages/tools/modeling/umodeler-80868) （快速关卡原型构建解决方案）
 - [ET](https://github.com/egametang/ET) （基于C#双端共享代码的分布式网络游戏开发框架）
 - [XAsset](https://github.com/xasset/xasset) （简单强大的资源管理插件）
