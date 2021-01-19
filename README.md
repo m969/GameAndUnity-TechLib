@@ -23,6 +23,7 @@
 - 1k+☆ https://github.com/mr-kelly/KSFramework
 - 1k+☆ https://github.com/yimengfan/BDFramework.Core
 - 1k+☆ https://github.com/liangxiegame/QFramework
+- 1k☆ https://github.com/GaoKaiHaHa/MyUnityFrameWork
 - 700+☆ https://github.com/vovgou/loxodon-framework
 - 300+☆ https://github.com/yomunsam/TinaX
 - 300+☆ https://github.com/XINCGer/ColaFrameWork
