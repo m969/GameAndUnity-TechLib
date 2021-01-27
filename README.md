@@ -57,6 +57,7 @@
 - 10+☆ https://github.com/weichx/AbilitySystem
 
 ### 帧同步框架
+- 300+☆ https://github.com/JiepengTan/LockstepEngine
 - 300+☆ https://github.com/proepkes/UnityLockstep
 - 1k+☆ https://github.com/SnpM/LockstepFramework
 
