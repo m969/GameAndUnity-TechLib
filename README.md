@@ -69,7 +69,8 @@
 - https://github.com/Unity-Technologies/VFXToolbox
 
 ### 程序化工具
-- 1.3k https://github.com/Syomus/ProceduralToolkit
+- 1k+☆ https://github.com/Syomus/ProceduralToolkit
+- 15k+☆ https://github.com/mxgmn/WaveFunctionCollapse
 
 ---
 # 图形渲染
