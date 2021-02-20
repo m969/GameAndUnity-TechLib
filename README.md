@@ -13,8 +13,9 @@
 - [ILRuntime](https://github.com/Ourpalm/ILRuntime)/[CSharp.lua](https://github.com/yanghuan/CSharp.lua) （热更新）
 
 ## 别的引用库
-- https://github.com/killop/anything_about_game
-- https://github.com/Gforcex/OpenGraphic
+- 500+☆ https://github.com/killop/anything_about_game
+- 700+☆ https://github.com/Gforcex/OpenGraphic
+- 700+☆ https://github.com/insthync/awesome-unity3d
 
 ---
 # 框架
