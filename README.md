@@ -136,7 +136,8 @@
 ### 物理碰撞
 - https://github.com/AndresTraks/BulletSharp
 - https://github.com/Zonciu/Box2DSharp
-- https://github.com/JiepengTan/LockstepCollision
+- 30+☆ https://github.com/JiepengTan/LockstepCollision
+- 300+☆ https://github.com/Prince-Ling/LogicPhysics
 - https://github.com/aaa719717747/TrueSyncExample
 - https://github.com/dotnet-ad/Humper
 
