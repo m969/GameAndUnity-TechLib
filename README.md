@@ -40,6 +40,7 @@
 - 500+☆ https://github.com/Leopotam/ecs
 - 500+☆ https://github.com/sebas77/Svelto.ECS
 - 300+☆ https://github.com/PixeyeHQ/actors.unity
+- 200+☆ https://github.com/EcsRx/ecsrx
 - 100+☆ https://github.com/chromealex/ecs
 - 10+☆ https://github.com/scellecs/Morpeh
 
