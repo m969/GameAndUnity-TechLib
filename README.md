@@ -36,6 +36,11 @@
 - 4k+☆ https://github.com/heroiclabs/nakama
 - 2k+☆ https://github.com/ketoo/NoahGameFrame
 
+### Actor框架
+- 3.8k+ https://github.com/akkadotnet/akka.net
+- 1k+ https://github.com/AsynkronIT/protoactor-dotnet
+- 200+ https://github.com/microsoft/service-fabric-services-and-actors-dotnet
+
 ### ECS
 - 500+☆ https://github.com/Leopotam/ecs
 - 500+☆ https://github.com/sebas77/Svelto.ECS
