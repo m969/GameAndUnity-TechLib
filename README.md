@@ -57,6 +57,7 @@
 - 70+☆ https://github.com/michaelday008/AnyRPGAlphaCode
 - 10+☆ https://github.com/weichx/AbilitySystem
 - 10+☆ https://github.com/gucheng0712/CombatDesigner （A Frame Based Visual Combat System in Unity Game Engine.）
+- https://github.com/PxGame/XMLib.AM
 
 ### 帧同步框架
 - 300+☆ https://github.com/JiepengTan/LockstepEngine
