@@ -171,6 +171,7 @@
 
 ### 网络库
 - https://github.com/BeardedManStudios/ForgeNetworkingRemastered
+- https://github.com/Yinmany/NetCode-FPS
 
 ### 敏感词库
 - https://github.com/toolgood/ToolGood.Words
