@@ -51,8 +51,9 @@
 - 10+☆ https://github.com/scellecs/Morpeh
 
 ### IoC
-- https://github.com/strangeioc/strangeioc
-- https://github.com/modesttree/Zenject
+- 1.4k+☆ https://github.com/strangeioc/strangeioc
+- 2.6k+☆ https://github.com/modesttree/Zenject
+- 200+☆ https://github.com/CatLib/CatLib
 
 ### 战斗、技能系统
 - https://github.com/sjai013/UnityGameplayAbilitySystem
