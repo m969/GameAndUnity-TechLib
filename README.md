@@ -13,6 +13,7 @@
 - [ILRuntime](https://github.com/Ourpalm/ILRuntime)/[CSharp.lua](https://github.com/yanghuan/CSharp.lua) （热更新）
 
 ## 别的引用库
+- 4.1k+☆ https://github.com/RyanNielson/awesome-unity
 - 3.5k+☆ https://github.com/MFatihMAR/Game-Networking-Resources
 - 700+☆ https://github.com/Gforcex/OpenGraphic
 - 700+☆ https://github.com/insthync/awesome-unity3d
