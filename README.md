@@ -81,12 +81,15 @@
 
 ### 资源检查
 - https://github.com/ZxIce/AssetCheck
+- https://github.com/yasirkula/UnityAssetUsageDetector
 
 ### Unity小工具
 - https://github.com/lujian101/UnityToolDist （动画压缩、矩阵调试等）
 - https://github.com/Unity-Technologies/VFXToolbox
 - 600+☆ https://github.com/Deadcows/MyBox
 - 100+☆ https://github.com/Ayfel/PrefabLightmapping
+- https://github.com/laurenth-personal/lightmap-switching-tool
+- https://github.com/yasirkula/UnityRuntimeInspector
 
 ### 程序化工具
 - 1k+☆ https://github.com/Syomus/ProceduralToolkit
