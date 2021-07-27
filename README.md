@@ -189,3 +189,6 @@
 
 ### 原生平台交互
 - 400+☆ https://github.com/yasirkula/UnityNativeShare
+
+### GPU蒙皮动画
+- https://github.com/chenjd/Render-Crowd-Of-Animated-Characters
