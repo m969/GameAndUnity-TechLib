@@ -58,11 +58,12 @@
 - 200+☆ https://github.com/CatLib/CatLib
 
 ### 战斗、技能系统
-- https://github.com/sjai013/UnityGameplayAbilitySystem
+- 400+☆ https://github.com/m969/EGamePlay
+- 400+☆ https://github.com/sjai013/UnityGameplayAbilitySystem
 - https://github.com/tranek/GASDocumentation （虚幻引擎的GamePlay Ability System 文档）
 - 130+☆ https://github.com/dongweiPeng/SkillSystem
 - 100+☆ https://github.com/delmarle/RPG-Core
-- https://github.com/KrazyL/SkillSystem-3
+- https://github.com/KrazyL/SkillSystem-3 （Dota2 alike Skill System Implementation for KnightPhone）
 - 40+☆ https://github.com/dx50075/SkillSystem
 - 70+☆ https://github.com/michaelday008/AnyRPGAlphaCode
 - 10+☆ https://github.com/weichx/AbilitySystem
