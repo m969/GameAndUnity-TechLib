@@ -13,8 +13,8 @@
 - [ILRuntime](https://github.com/Ourpalm/ILRuntime)/[CSharp.lua](https://github.com/yanghuan/CSharp.lua) （热更新）
 
 ## 别的引用库
-- 4.1k+☆ https://github.com/RyanNielson/awesome-unity
-- 3.5k+☆ https://github.com/MFatihMAR/Game-Networking-Resources
+- 4k+☆ https://github.com/RyanNielson/awesome-unity
+- 3k+☆ https://github.com/MFatihMAR/Game-Networking-Resources
 - 700+☆ https://github.com/Gforcex/OpenGraphic
 - 700+☆ https://github.com/insthync/awesome-unity3d
 - 500+☆ https://github.com/killop/anything_about_game
@@ -36,11 +36,13 @@
 - 100+☆ https://github.com/SaiTingHu/HTFramework
 
 ### 服务端框架
+- 5k+☆ https://github.com/egametang/ET
 - 4k+☆ https://github.com/heroiclabs/nakama
 - 2k+☆ https://github.com/ketoo/NoahGameFrame
+- https://github.com/leeveel/GeekServer
 
 ### Actor框架
-- 3.8k+ https://github.com/akkadotnet/akka.net
+- 3k+ https://github.com/akkadotnet/akka.net
 - 1k+ https://github.com/AsynkronIT/protoactor-dotnet
 - 200+ https://github.com/microsoft/service-fabric-services-and-actors-dotnet
 
@@ -53,13 +55,13 @@
 - 10+☆ https://github.com/scellecs/Morpeh
 
 ### IoC
-- 1.4k+☆ https://github.com/strangeioc/strangeioc
-- 2.6k+☆ https://github.com/modesttree/Zenject
+- 1k+☆ https://github.com/strangeioc/strangeioc
+- 2k+☆ https://github.com/modesttree/Zenject
 - 200+☆ https://github.com/CatLib/CatLib
 
 ### 战斗、技能系统
-- 400+☆ https://github.com/m969/EGamePlay
-- 400+☆ https://github.com/sjai013/UnityGameplayAbilitySystem
+- 700+☆ https://github.com/m969/EGamePlay
+- 500+☆ https://github.com/sjai013/UnityGameplayAbilitySystem
 - https://github.com/tranek/GASDocumentation （虚幻引擎的GamePlay Ability System 文档）
 - 130+☆ https://github.com/dongweiPeng/SkillSystem
 - 100+☆ https://github.com/delmarle/RPG-Core
