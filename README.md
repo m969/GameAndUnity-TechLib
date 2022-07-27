@@ -13,7 +13,7 @@
 - [ILRuntime](https://github.com/Ourpalm/ILRuntime)/[CSharp.lua](https://github.com/yanghuan/CSharp.lua) （热更新）
 
 ## 别的引用库
-- 4k+☆ https://github.com/RyanNielson/awesome-unity
+- [awesome-unity](https://github.com/RyanNielson/awesome-unity) ![](https://img.shields.io/github/stars/RyanNielson/awesome-unity.svg?style=flat&label=Star&maxAge=86400)
 - 3k+☆ https://github.com/MFatihMAR/Game-Networking-Resources
 - 700+☆ https://github.com/Gforcex/OpenGraphic
 - 700+☆ https://github.com/insthync/awesome-unity3d
