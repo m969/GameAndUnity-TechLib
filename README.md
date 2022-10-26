@@ -34,6 +34,7 @@
 - 300+☆ https://github.com/Fydar/RPGCore
 - 100+☆ https://github.com/gmhevinci/MotionFramework
 - 100+☆ https://github.com/SaiTingHu/HTFramework
+- [mofr/Diablerie](https://github.com/mofr/Diablerie) ![](https://img.shields.io/github/stars/mofr/Diablerie.svg?style=flat&label=Star&maxAge=86400)
 
 ### 服务端框架
 - 5k+☆ https://github.com/egametang/ET
@@ -172,6 +173,7 @@
 ### 行为树
 - 400+☆ https://github.com/meniku/NPBehave
 - 200+☆ https://github.com/ashblue/fluid-behavior-tree
+- [BonsaiBehaviourTree](https://github.com/luis-l/BonsaiBehaviourTree) ![](https://img.shields.io/github/stars/luis-l/BonsaiBehaviourTree.svg?style=flat&label=Star&maxAge=86400)
 
 ### 笔刷绘图
 - https://github.com/EsProgram/InkPainter
