@@ -10,7 +10,7 @@
 - [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.5/manual/index.html) （Unity官方可编程渲染管线-通用渲染管线）
 - [ShaderGraph/AmplifyShaderEditor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570) （自定义Shader编辑器）
 - [Bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802) （可视化脚本）
-- [ILRuntime](https://github.com/Ourpalm/ILRuntime)/[CSharp.lua](https://github.com/yanghuan/CSharp.lua) （热更新）
+- [HybridCLR](https://github.com/focus-creative-games/hybridclr) ![](https://img.shields.io/github/stars/focus-creative-games/hybridclr.svg?style=flat&label=Star&maxAge=86400)（热更新）
 
 ## 别的引用库
 - 游戏开发者路线图 [utilForever/game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap) ![](https://img.shields.io/github/stars/utilForever/game-developer-roadmap.svg?style=flat&label=Star&maxAge=86400)
