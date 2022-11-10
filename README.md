@@ -13,6 +13,7 @@
 - [ILRuntime](https://github.com/Ourpalm/ILRuntime)/[CSharp.lua](https://github.com/yanghuan/CSharp.lua) （热更新）
 
 ## 别的引用库
+- 游戏开发者路线图 [utilForever/game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap) ![](https://img.shields.io/github/stars/utilForever/game-developer-roadmap.svg?style=flat&label=Star&maxAge=86400)
 - [awesome-unity](https://github.com/RyanNielson/awesome-unity) ![](https://img.shields.io/github/stars/RyanNielson/awesome-unity.svg?style=flat&label=Star&maxAge=86400)
 - 3k+☆ https://github.com/MFatihMAR/Game-Networking-Resources
 - 700+☆ https://github.com/Gforcex/OpenGraphic
