@@ -4,13 +4,13 @@
 - [Odin Inspector](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) （编辑器扩展、工作流改善）
 - [Animancer Pro](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514) （基于Playable的简单强大的动画解决方案）
 - [ProBuilder/UModeler](https://assetstore.unity.com/packages/tools/modeling/umodeler-80868) （快速关卡原型构建解决方案）
-- [ET](https://github.com/egametang/ET) （基于C#双端共享代码的分布式网络游戏开发框架）
-- [XAsset](https://github.com/xasset/xasset) （简单强大的资源管理插件）
+- [ET](https://github.com/egametang/ET) ![](https://img.shields.io/github/stars/egametang/ET.svg?style=flat&label=Star&maxAge=86400) （基于C#双端共享代码的开源分布式网络游戏开发框架）
+- [YooAsset](https://github.com/tuyoogame/YooAsset) ![](https://img.shields.io/github/stars/tuyoogame/YooAsset.svg?style=flat&label=Star&maxAge=86400) （开源免费的优秀资源管理插件）
 - [FGUI](https://github.com/fairygui/FairyGUI-unity) （简单强大的UI解决方案）
 - [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.5/manual/index.html) （Unity官方可编程渲染管线-通用渲染管线）
 - [ShaderGraph/AmplifyShaderEditor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570) （自定义Shader编辑器）
 - [Bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802) （可视化脚本）
-- [HybridCLR](https://github.com/focus-creative-games/hybridclr) ![](https://img.shields.io/github/stars/focus-creative-games/hybridclr.svg?style=flat&label=Star&maxAge=86400)（热更新）
+- [HybridCLR](https://github.com/focus-creative-games/hybridclr) ![](https://img.shields.io/github/stars/focus-creative-games/hybridclr.svg?style=flat&label=Star&maxAge=86400)（客户端代码热更解决方案）
 
 ## 别的引用库
 - 游戏开发者路线图 [utilForever/game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap) ![](https://img.shields.io/github/stars/utilForever/game-developer-roadmap.svg?style=flat&label=Star&maxAge=86400)
@@ -38,7 +38,7 @@
 - [mofr/Diablerie](https://github.com/mofr/Diablerie) ![](https://img.shields.io/github/stars/mofr/Diablerie.svg?style=flat&label=Star&maxAge=86400)
 
 ### 服务端框架
-- 5k+☆ https://github.com/egametang/ET
+- https://github.com/egametang/ET ![](https://img.shields.io/github/stars/egametang/ET.svg?style=flat&label=Star&maxAge=86400)
 - 4k+☆ https://github.com/heroiclabs/nakama
 - 2k+☆ https://github.com/ketoo/NoahGameFrame
 - https://github.com/leeveel/GeekServer
@@ -62,7 +62,7 @@
 - 200+☆ https://github.com/CatLib/CatLib
 
 ### 战斗、技能系统
-- 700+☆ https://github.com/m969/EGamePlay
+- https://github.com/m969/EGamePlay ![](https://img.shields.io/github/stars/m969/EGamePlay.svg?style=flat&label=Star&maxAge=86400)
 - 500+☆ https://github.com/sjai013/UnityGameplayAbilitySystem
 - https://github.com/tranek/GASDocumentation （虚幻引擎的GamePlay Ability System 文档）
 - 130+☆ https://github.com/dongweiPeng/SkillSystem
