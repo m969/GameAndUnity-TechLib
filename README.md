@@ -103,6 +103,7 @@
 ### 程序化工具
 - 1k+☆ https://github.com/Syomus/ProceduralToolkit
 - 15k+☆ https://github.com/mxgmn/WaveFunctionCollapse
+- https://github.com/OndrejNepozitek/Edgar-Unity
 
 ---
 # 图形渲染
@@ -174,6 +175,10 @@
 - https://github.com/alelievr/NodeGraphProcessor
 - https://github.com/Siccity/xNode
 - https://github.com/nicloay/Node-Inspector
+- https://github.com/OndrejNepozitek/Edgar-Unity
+
+## 关卡编辑
+- https://github.com/OndrejNepozitek/Edgar-Unity
 
 ### 行为树
 - 400+☆ https://github.com/meniku/NPBehave
@@ -182,6 +187,7 @@
 
 ### 笔刷绘图
 - https://github.com/EsProgram/InkPainter
+- https://github.com/OndrejNepozitek/Edgar-Unity
 
 ### ScrollRect
 - https://github.com/qiankanglai/LoopScrollRect
