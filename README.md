@@ -16,6 +16,7 @@
 - 游戏开发者路线图 [utilForever/game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap) ![](https://img.shields.io/github/stars/utilForever/game-developer-roadmap.svg?style=flat&label=Star&maxAge=86400)
 - [awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github) ![](https://img.shields.io/github/stars/baba-s/awesome-unity-open-source-on-github.svg?style=flat&label=Star&maxAge=86400)
 - [awesome-unity](https://github.com/RyanNielson/awesome-unity) ![](https://img.shields.io/github/stars/RyanNielson/awesome-unity.svg?style=flat&label=Star&maxAge=86400)
+- [Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) ![](https://img.shields.io/github/stars/michidk/Unity-Script-Collection.svg?style=flat&label=Star&maxAge=86400)
 - 3k+☆ https://github.com/MFatihMAR/Game-Networking-Resources
 - 700+☆ https://github.com/Gforcex/OpenGraphic
 - 700+☆ https://github.com/insthync/awesome-unity3d
