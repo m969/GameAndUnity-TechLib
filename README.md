@@ -167,6 +167,7 @@
 
 ### UI
 - 2k+☆ https://github.com/mob-sakai/UIEffect
+- https://github.com/mob-sakai/SoftMaskForUGUI ![](https://img.shields.io/github/stars/mob-sakai/SoftMaskForUGUI.svg?style=flat&label=Star&maxAge=86400)
 
 ### 物理碰撞
 - https://github.com/AndresTraks/BulletSharp
