@@ -90,6 +90,9 @@
 
 ---
 # 工具插件
+### 编辑器开发
+- https://github.com/XINCGer/UnityToolchainsTrick ![](https://img.shields.io/github/stars/XINCGer/UnityToolchainsTrick.svg?style=flat&label=Star&maxAge=86400)
+
 ### 黑客工具、网络异常模拟
 - https://github.com/Z4nzu/hackingtool
 
