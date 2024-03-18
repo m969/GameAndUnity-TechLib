@@ -71,6 +71,7 @@
 
 ### 战斗、技能系统
 - https://github.com/m969/EGamePlay ![](https://img.shields.io/github/stars/m969/EGamePlay.svg?style=flat&label=Star&maxAge=86400)
+- https://github.com/No78Vino/gameplay-ability-system-for-unity ![](https://img.shields.io/github/stars/No78Vino/gameplay-ability-system-for-unity.svg?style=flat&label=Star&maxAge=86400)
 - 500+☆ https://github.com/sjai013/UnityGameplayAbilitySystem
 - https://github.com/tranek/GASDocumentation （虚幻引擎的GamePlay Ability System 文档）
 - 130+☆ https://github.com/dongweiPeng/SkillSystem
