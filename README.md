@@ -135,6 +135,7 @@
 - 80+☆ https://github.com/madumpa/URP_StylizedLitShader
 - 80+☆ https://github.com/Sorumi/UnityToonShader
 - 50+☆ https://github.com/ChiliMilk/URP_Toon
+- https://github.com/Santarh/MToon
 
 ### 草渲染
 - 300+☆ https://github.com/ColinLeung-NiloCat/UnityURP-MobileDrawMeshInstancedIndirectExample
