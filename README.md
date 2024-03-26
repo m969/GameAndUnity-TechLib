@@ -116,6 +116,9 @@
 
 ---
 # 图形渲染
+### 后期渲染
+- https://github.com/elringus/sprite-glow
+
 ### 水渲染
 - https://github.com/flamacore/UnityHDRPSimpleWater
 
