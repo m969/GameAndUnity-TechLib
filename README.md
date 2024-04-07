@@ -5,6 +5,7 @@
 - [Animancer Pro](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514) （基于Playable的简单强大的动画解决方案）
 - [ProBuilder/UModeler](https://assetstore.unity.com/packages/tools/modeling/umodeler-80868) （快速关卡原型构建解决方案）
 - [ET](https://github.com/egametang/ET) ![](https://img.shields.io/github/stars/egametang/ET.svg?style=flat&label=Star&maxAge=86400) （基于C#双端共享代码的开源分布式网络游戏开发框架）
+- [EGamePlay](https://github.com/m969/EGamePlay) ![](https://img.shields.io/github/stars/m969/EGamePlay.svg?style=flat&label=Star&maxAge=86400) （轻量易扩展的战斗技能框架）
 - [YooAsset](https://github.com/tuyoogame/YooAsset) ![](https://img.shields.io/github/stars/tuyoogame/YooAsset.svg?style=flat&label=Star&maxAge=86400) （开源免费的优秀资源管理插件）
 - [FGUI](https://github.com/fairygui/FairyGUI-unity) （简单强大的UI解决方案）
 - [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.5/manual/index.html) （Unity官方可编程渲染管线-通用渲染管线）
