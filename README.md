@@ -25,6 +25,7 @@
 - https://github.com/insthync/awesome-unity3d ![](https://img.shields.io/github/stars/insthync/awesome-unity3d.svg?style=flat&label=Star&maxAge=86400)
 - 5https://github.com/killop/anything_about_game ![](https://img.shields.io/github/stars/killop/anything_about_game.svg?style=flat&label=Star&maxAge=86400)
 - https://github.com/uhub/awesome-c-sharp ![](https://img.shields.io/github/stars/uhub/awesome-c-sharp.svg?style=flat&label=Star&maxAge=86400)
+- https://github.com/TastSong/GameProgrammerStudyNotes ![](https://img.shields.io/github/stars/TastSong/GameProgrammerStudyNotes.svg?style=flat&label=Star&maxAge=86400)
 
 ---
 # 框架
