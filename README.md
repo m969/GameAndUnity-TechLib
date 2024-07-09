@@ -173,6 +173,9 @@
 - 15k+☆ https://github.com/google/flatbuffers (据说序列化快，占内存大，相比于pb，适合游戏开发)
 - 100+☆ https://github.com/jamescourtney/FlatSharp
 
+### 对象池
+- https://github.com/AnnulusGames/uPools
+
 ### 动态表达式解析库
 - 900+☆ https://github.com/davideicardi/DynamicExpresso
 - 200+☆ https://github.com/zzzprojects/Eval-Expression.NET
@@ -183,6 +186,7 @@
 ### UI
 - 2k+☆ https://github.com/mob-sakai/UIEffect
 - https://github.com/mob-sakai/SoftMaskForUGUI ![](https://img.shields.io/github/stars/mob-sakai/SoftMaskForUGUI.svg?style=flat&label=Star&maxAge=86400)
+- https://github.com/Heymity/UniversalInventorySystem
 
 ### 物理碰撞
 - https://github.com/AndresTraks/BulletSharp
