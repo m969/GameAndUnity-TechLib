@@ -187,6 +187,8 @@
 - 2k+☆ https://github.com/mob-sakai/UIEffect
 - https://github.com/mob-sakai/SoftMaskForUGUI ![](https://img.shields.io/github/stars/mob-sakai/SoftMaskForUGUI.svg?style=flat&label=Star&maxAge=86400)
 - https://github.com/Heymity/UniversalInventorySystem
+- https://github.com/setchi/FancyScrollView
+- https://github.com/qiankanglai/LoopScrollRect
 
 ### 物理碰撞
 - https://github.com/AndresTraks/BulletSharp
@@ -216,9 +218,6 @@
 ### 笔刷绘图
 - https://github.com/EsProgram/InkPainter
 - https://github.com/OndrejNepozitek/Edgar-Unity
-
-### ScrollRect
-- https://github.com/qiankanglai/LoopScrollRect
 
 ### SRP项目
 - https://github.com/keijiro/TestbedHDRP
