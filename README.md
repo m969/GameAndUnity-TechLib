@@ -1,4 +1,5 @@
-# GameAndUnity-TechLib 游戏和Unity的技术项目引用目录
+## GameAndUnity-TechLib
+## 游戏和Unity的技术项目引用库
 
 # Unity高效游戏开发技术栈尝试
 - [ET](https://github.com/egametang/ET) ![](https://img.shields.io/github/stars/egametang/ET.svg?style=flat&label=Star&maxAge=86400) （基于C#双端共享代码的开源分布式网络游戏开发框架）
