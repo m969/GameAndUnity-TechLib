@@ -188,9 +188,10 @@
 ### UI
 - 2k+☆ https://github.com/mob-sakai/UIEffect
 - https://github.com/mob-sakai/SoftMaskForUGUI ![](https://img.shields.io/github/stars/mob-sakai/SoftMaskForUGUI.svg?style=flat&label=Star&maxAge=86400)
-- https://github.com/Heymity/UniversalInventorySystem
 - https://github.com/setchi/FancyScrollView
 - https://github.com/qiankanglai/LoopScrollRect
+- https://github.com/nzhul/inventory-system
+- https://github.com/Heymity/UniversalInventorySystem
 
 ### 物理碰撞
 - https://github.com/AndresTraks/BulletSharp
