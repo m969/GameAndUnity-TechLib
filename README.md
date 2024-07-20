@@ -1,5 +1,5 @@
 ## GameAndUnity-TechLib
-## 游戏和Unity的技术项目引用库
+## 游戏和Unity的技术项目收录库
 
 # Unity高效游戏开发技术栈尝试
 - [ET](https://github.com/egametang/ET) ![](https://img.shields.io/github/stars/egametang/ET.svg?style=flat&label=Star&maxAge=86400) （基于C#双端共享代码的开源分布式网络游戏开发框架）
@@ -14,7 +14,7 @@
 - [ShaderGraph/AmplifyShaderEditor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570) （自定义Shader编辑器）
 - [Bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802) （可视化脚本）
 
-# 别的引用库
+# 类似的收录库
 - 游戏开发者路线图 [utilForever/game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap) ![](https://img.shields.io/github/stars/utilForever/game-developer-roadmap.svg?style=flat&label=Star&maxAge=86400)
 - [awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github) ![](https://img.shields.io/github/stars/baba-s/awesome-unity-open-source-on-github.svg?style=flat&label=Star&maxAge=86400)
 - [awesome-unity](https://github.com/RyanNielson/awesome-unity) ![](https://img.shields.io/github/stars/RyanNielson/awesome-unity.svg?style=flat&label=Star&maxAge=86400)
