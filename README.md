@@ -78,6 +78,9 @@
 - 2k+☆ https://github.com/modesttree/Zenject
 - 200+☆ https://github.com/CatLib/CatLib
 
+### AOP
+- https://github.com/inversionhourglass/Rougamo ![](https://img.shields.io/github/stars/inversionhourglass/Rougamo.svg?style=flat&label=Star&maxAge=86400)
+
 ### 战斗、技能系统
 - https://github.com/m969/EGamePlay ![](https://img.shields.io/github/stars/m969/EGamePlay.svg?style=flat&label=Star&maxAge=86400)
 - https://github.com/No78Vino/gameplay-ability-system-for-unity ![](https://img.shields.io/github/stars/No78Vino/gameplay-ability-system-for-unity.svg?style=flat&label=Star&maxAge=86400)
