@@ -30,6 +30,9 @@
 - https://github.com/michidk/Unity-Script-Collection ![](https://img.shields.io/github/stars/michidk/Unity-Script-Collection.svg?style=flat&label=Star&maxAge=86400)
 - https://github.com/StefanoCecere/awesome-opensource-unity ![](https://img.shields.io/github/stars/StefanoCecere/awesome-opensource-unity.svg?style=flat&label=Star&maxAge=86400)
 
+# 资源收录库
+- https://github.com/HotpotDesign/Game-Assets-And-Resources  ![](https://img.shields.io/github/stars/HotpotDesign/Game-Assets-And-Resources.svg?style=flat&label=Star&maxAge=86400)
+
 ---
 # 框架
 ### 双端框架
