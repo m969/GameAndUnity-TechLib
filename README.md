@@ -29,9 +29,15 @@
 - https://github.com/TastSong/GameProgrammerStudyNotes ![](https://img.shields.io/github/stars/TastSong/GameProgrammerStudyNotes.svg?style=flat&label=Star&maxAge=86400)
 - https://github.com/michidk/Unity-Script-Collection ![](https://img.shields.io/github/stars/michidk/Unity-Script-Collection.svg?style=flat&label=Star&maxAge=86400)
 - https://github.com/StefanoCecere/awesome-opensource-unity ![](https://img.shields.io/github/stars/StefanoCecere/awesome-opensource-unity.svg?style=flat&label=Star&maxAge=86400)
+- https://github.com/ThusSpokeNomad/GameNetworkingResources
 
-# 资源收录库
-- https://github.com/HotpotDesign/Game-Assets-And-Resources  ![](https://img.shields.io/github/stars/HotpotDesign/Game-Assets-And-Resources.svg?style=flat&label=Star&maxAge=86400)
+# 游戏资源收录库
+- https://github.com/HotpotDesign/Game-Assets-And-Resources ![](https://img.shields.io/github/stars/HotpotDesign/Game-Assets-And-Resources.svg?style=flat&label=Star&maxAge=86400)
+- https://github.com/Kavex/GameDev-Resources ![](https://img.shields.io/github/stars/Kavex/GameDev-Resources.svg?style=flat&label=Star&maxAge=86400)
+- https://js13kgames.github.io/resources/
+- https://github.com/kobitoko/Game-Jam-Tools-Resources
+- https://github.com/felladrin/game-development-resources-list
+- https://github.com/PterPmnta/ResourcesForVideoGameDevelopers
 
 ---
 # 框架
@@ -115,6 +121,7 @@
 ### 资源检查
 - https://github.com/ZxIce/AssetCheck
 - https://github.com/yasirkula/UnityAssetUsageDetector
+- https://github.com/SixWays/UnityShaderStripper
 
 ### Unity小工具
 - https://github.com/Skyrim07/SKCell ![](https://img.shields.io/github/stars/Skyrim07/SKCell.svg?style=flat&label=Star&maxAge=86400)
