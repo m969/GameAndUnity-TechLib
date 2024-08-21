@@ -76,6 +76,7 @@
 - 200+ https://github.com/microsoft/service-fabric-services-and-actors-dotnet
 
 ### ECS
+- https://github.com/Dreaming381/Latios-Framework ![](https://img.shields.io/github/stars/Dreaming381/Latios-Framework.svg?style=flat&label=Star&maxAge=86400)
 - 500+☆ https://github.com/Leopotam/ecs
 - 500+☆ https://github.com/sebas77/Svelto.ECS
 - 300+☆ https://github.com/PixeyeHQ/actors.unity
