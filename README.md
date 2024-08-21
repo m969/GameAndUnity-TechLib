@@ -153,6 +153,7 @@
 - 1k+☆ https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
 - 1k+☆ https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project
 - 700+☆ https://github.com/Kink3d/kShading
+- https://github.com/danbaidong1111/DanbaidongRP  ![](https://img.shields.io/github/stars/danbaidong1111/DanbaidongRP.svg?style=flat&label=Star&maxAge=86400)
 - 300+☆ https://github.com/SnutiHQ/Toon-Shader
 - 300+☆ https://github.com/IronWarrior/UnityToonShader
 - 300+☆ https://github.com/Jason-Ma-233/JasonMaToonRenderPipeline
