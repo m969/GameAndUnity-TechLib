@@ -126,6 +126,9 @@
 - https://github.com/yasirkula/UnityAssetUsageDetector
 - https://github.com/SixWays/UnityShaderStripper
 
+### 资源打包
+- https://github.com/CyberAgentGameEntertainment/SmartAddresser ![](https://img.shields.io/github/stars/CyberAgentGameEntertainment/SmartAddresser.svg?style=flat&label=Star&maxAge=86400)
+
 ### Unity小工具
 - https://github.com/Skyrim07/SKCell ![](https://img.shields.io/github/stars/Skyrim07/SKCell.svg?style=flat&label=Star&maxAge=86400)
 - https://github.com/lujian101/UnityToolDist （动画压缩、矩阵调试等）
