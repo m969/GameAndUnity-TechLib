@@ -29,7 +29,8 @@
 - https://github.com/TastSong/GameProgrammerStudyNotes ![](https://img.shields.io/github/stars/TastSong/GameProgrammerStudyNotes.svg?style=flat&label=Star&maxAge=86400)
 - https://github.com/michidk/Unity-Script-Collection ![](https://img.shields.io/github/stars/michidk/Unity-Script-Collection.svg?style=flat&label=Star&maxAge=86400)
 - https://github.com/StefanoCecere/awesome-opensource-unity ![](https://img.shields.io/github/stars/StefanoCecere/awesome-opensource-unity.svg?style=flat&label=Star&maxAge=86400)
-- https://github.com/ThusSpokeNomad/GameNetworkingResources
+- https://github.com/ThusSpokeNomad/GameNetworkingResources ![](https://img.shields.io/github/stars/ThusSpokeNomad/GameNetworkingResources.svg?style=flat&label=Star&maxAge=86400)
+- https://github.com/baba-s/awesome-unity-open-source-on-github ![](https://img.shields.io/github/stars/baba-s/awesome-unity-open-source-on-github.svg?style=flat&label=Star&maxAge=86400)
 
 # 游戏资源收录库
 - https://github.com/HotpotDesign/Game-Assets-And-Resources ![](https://img.shields.io/github/stars/HotpotDesign/Game-Assets-And-Resources.svg?style=flat&label=Star&maxAge=86400)
