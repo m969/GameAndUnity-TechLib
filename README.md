@@ -15,7 +15,7 @@
 - [Bolt](https://assetstore.unity.com/packages/tools/visual-scripting/bolt-163802) （可视化脚本）
 
 # 持续快速工程开发
-- 热重载、热更新、自动化、规范化
+- 热重载、热更新、自动化、规范化、简单化
 
 # 类似的收录库
 - 游戏开发者路线图 [utilForever/game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap) ![](https://img.shields.io/github/stars/utilForever/game-developer-roadmap.svg?style=flat&label=Star&maxAge=86400)
