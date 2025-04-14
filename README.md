@@ -7,6 +7,7 @@
 - [FGUI](https://en.fairygui.com) （简单强大的UI解决方案）
 - [YooAsset](https://github.com/tuyoogame/YooAsset) ![](https://img.shields.io/github/stars/tuyoogame/YooAsset.svg?style=flat&label=Star&maxAge=86400) （开源免费的优秀资源管理插件）
 - [HybridCLR](https://github.com/focus-creative-games/hybridclr) ![](https://img.shields.io/github/stars/focus-creative-games/hybridclr.svg?style=flat&label=Star&maxAge=86400)（客户端代码热更解决方案）
+- [Hot Reload](https://assetstore.unity.com/packages/tools/utilities/hot-reload-edit-code-without-compiling-254358) （强大的编辑器下热重载插件，可以运行时更新C#代码，包括逻辑和字段）
 - [Odin Inspector](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) （编辑器扩展、工作流改善）
 - [Animancer Pro](https://assetstore.unity.com/packages/tools/animation/animancer-pro-116514) （基于Playable的简单强大的动画解决方案）
 - [ProBuilder/UModeler](https://assetstore.unity.com/packages/tools/modeling/umodeler-80868) （快速关卡原型构建解决方案）
