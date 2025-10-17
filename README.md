@@ -231,6 +231,7 @@
 - 300+☆ https://github.com/Prince-Ling/LogicPhysics
 - https://github.com/aaa719717747/TrueSyncExample
 - https://github.com/dotnet-ad/Humper
+- https://github.com/dimforge/rapier ![](https://img.shields.io/github/stars/dimforge/rapier.svg?style=flat&label=Star&maxAge=86400)
 
 ### 动态骨骼 
 - https://github.com/OneYoungMean/Automatic-DynamicBone
