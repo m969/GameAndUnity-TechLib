@@ -48,7 +48,7 @@
 # 框架
 ### 双端框架
 - https://github.com/egametang/ET ![](https://img.shields.io/github/stars/egametang/ET.svg?style=flat&label=Star&maxAge=86400)
-- https://github.com/AlianBlank/GameFrameX ![](https://img.shields.io/github/stars/AlianBlank/GameFrameX.svg?style=flat&label=Star&maxAge=86400)
+- https://github.com/GameFrameX/GameFrameX ![](https://img.shields.io/github/stars/GameFrameX/GameFrameX.svg?style=flat&label=Star&maxAge=86400)
 
 ### 客户端框架
 - 2k+☆ https://github.com/EllanJiang/GameFramework
