@@ -81,7 +81,7 @@
 - 200+ https://github.com/microsoft/service-fabric-services-and-actors-dotnet
 
 ### ECS
-- [EasyEcs（.NET 10 服务端 ECS）](https://github.com/JasonXuDeveloper/EasyEcs) ![](https://img.shields.io/github/stars/JasonXuDeveloper/EasyEcs.svg?style=flat&label=Star&maxAge=86400)
+- [EasyEcs（.NET 10 ECS）](https://github.com/JasonXuDeveloper/EasyEcs) ![](https://img.shields.io/github/stars/JasonXuDeveloper/EasyEcs.svg?style=flat&label=Star&maxAge=86400)
 - https://github.com/Dreaming381/Latios-Framework ![](https://img.shields.io/github/stars/Dreaming381/Latios-Framework.svg?style=flat&label=Star&maxAge=86400)
 - https://github.com/Leopotam/ecs ![](https://img.shields.io/github/stars/Leopotam/ecs.svg?style=flat&label=Star&maxAge=86400)
 - https://github.com/Leopotam/ecslite ![](https://img.shields.io/github/stars/Leopotam/ecslite.svg)
