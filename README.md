@@ -39,6 +39,7 @@
 # 游戏资源收录库
 - https://github.com/HotpotDesign/Game-Assets-And-Resources ![](https://img.shields.io/github/stars/HotpotDesign/Game-Assets-And-Resources.svg?style=flat&label=Star&maxAge=86400)
 - https://github.com/Kavex/GameDev-Resources ![](https://img.shields.io/github/stars/Kavex/GameDev-Resources.svg?style=flat&label=Star&maxAge=86400)
+- https://respawnstack.com
 - https://js13kgames.github.io/resources/
 - https://github.com/kobitoko/Game-Jam-Tools-Resources
 - https://github.com/felladrin/game-development-resources-list
